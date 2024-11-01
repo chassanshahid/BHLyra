@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderLogging.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\dev\repos\Lyra_5_4-main\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLogging\RiderLogging.cpp.obj"
+"C:\dev\repos\Lyra_5_4-main\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLogging\RiderOutputDevice.cpp.obj"
+"C:\dev\repos\Lyra_5_4-main\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLogging\Default.rc2.res"
+/OUT:"C:\dev\repos\Lyra_5_4-main\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLogging\UnrealEditor-RiderLogging.lib"
